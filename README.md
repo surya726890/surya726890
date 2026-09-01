@@ -1,6 +1,6 @@
-## Hi there 👋
+ Hi there 👋
 
-<!# 💫 About Me:
+ 💫 About Me:
 🚀 B.Tech Student | Aspiring Data Analyst & AI/ML Engineer<br>🐍 Python | SQL | Machine Learning | Data Analytics<br>📊 Turning Data into Meaningful Insights<br>💡 Building Projects & Exploring AI Technologies<br>🌱 Always Learning and Growing<br>
 
 
